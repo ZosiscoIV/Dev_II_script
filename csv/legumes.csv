@@ -1,4 +1,4 @@
-Nom du Produit,Quantité,Prix Unitaire (€),Type
+nom,quantite,prix,type
 Carotte,25,0.4,Légumes
 Brocoli,10,1.0,Légumes
 Tomate,40,0.6,Légumes

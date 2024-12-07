@@ -1,4 +1,4 @@
-Nom du Produit,Quantité,Prix Unitaire (€),Type
+nom,quantite,prix,type
 Eau Minérale,100,0.2,Boissons
 Jus d'Orange,50,1.5,Boissons
 Soda,80,1.0,Boissons

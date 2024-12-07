@@ -1,0 +1,16 @@
+Nom du Produit,Quantité,Prix Unitaire (€),Type
+Eau Minérale,100,0.2,Boissons
+Jus d'Orange,50,1.5,Boissons
+Soda,80,1.0,Boissons
+Café,30,3.0,Boissons
+Thé,25,2.5,Boissons
+Pomme,50,0.5,Fruits
+Banane,30,0.3,Fruits
+Orange,20,0.4,Fruits
+Fraise,15,0.8,Fruits
+Mangue,40,1.2,Fruits
+Carotte,25,0.4,Légumes
+Brocoli,10,1.0,Légumes
+Tomate,40,0.6,Légumes
+Poivron,30,0.8,Légumes
+Pomme de Terre,60,0.2,Légumes

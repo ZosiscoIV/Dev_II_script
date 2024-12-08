@@ -23,6 +23,8 @@ Le projet **Dev_II_script** permet de gérer et d'analyser des données de stock
 
 Avant de commencer, assurez-vous d'avoir installé Python 3 et les dépendances nécessaires.
 
+Le fichier CSV doivent comporter les colonnes "nom", "quantite", "prix" et "type"
+
 ### Dépendances
 
 Le programme nécessite la bibliothèque `argparse`, qui est incluse dans la bibliothèque standard de Python, donc il n'y a pas besoin d'installer de dépendances externes à moins que vous n'ayez une version Python trop ancienne.

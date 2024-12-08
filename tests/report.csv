@@ -1,0 +1,13 @@
+Statistique,Valeur
+Valeur totale des stocks (€),327.50
+Nombre total d'articles,285
+Nombre de catégories uniques,1
+Catégories,Boissons
+
+Détails des stocks
+Nom,Quantité,Prix Unitaire (€),Type,Total (€)
+Café,30,3.0,Boissons,90.0
+Thé,25,2.5,Boissons,62.5
+Jus d'Orange,50,1.5,Boissons,75.0
+Soda,80,1.0,Boissons,80.0
+Eau Minérale,100,0.2,Boissons,20.0

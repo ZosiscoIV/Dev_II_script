@@ -1,8 +1,6 @@
 import argparse
-import csv_sorter
-import csv_filtrer
-import csv_reporter
-import csv_merger
+from src import csv_filtrer, csv_merger, csv_reporter, csv_sorter
+
 
 def main():
     parser = argparse.ArgumentParser(description="Gérer les fichiers CSV : fusion, tri, filtrage, génération de rapports.")

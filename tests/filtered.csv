@@ -1,0 +1,6 @@
+nom,quantite,prix,type
+Café,30,3.0,Boissons
+Thé,25,2.5,Boissons
+Jus d'Orange,50,1.5,Boissons
+Soda,80,1.0,Boissons
+Eau Minérale,100,0.2,Boissons

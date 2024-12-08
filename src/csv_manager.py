@@ -1,5 +1,5 @@
 import argparse
-from src import csv_filtrer, csv_merger, csv_reporter, csv_sorter
+import csv_filtrer, csv_merger, csv_reporter, csv_sorter
 
 
 def main():

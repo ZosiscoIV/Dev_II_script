@@ -2,7 +2,7 @@ import csv
 import argparse
 import os
 
-def sort_csv(input_file, output_file, sort_by, descending):
+def sort_csv(input_file, output_file, sort_by, descending=False):
     """
     Trie un fichier CSV sur une colonne spécifique.
 

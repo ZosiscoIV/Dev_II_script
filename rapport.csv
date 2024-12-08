@@ -1,0 +1,23 @@
+Statistique,Valeur
+Valeur totale des stocks (€),509.50
+Nombre total d'articles,605
+Nombre de catégories uniques,3
+Catégories,"Légumes, Fruits, Boissons"
+
+Détails des stocks
+Nom,Quantité,Prix Unitaire (€),Type,Total (€)
+Eau Minérale,100,0.2,Boissons,20.0
+Jus d'Orange,50,1.5,Boissons,75.0
+Soda,80,1.0,Boissons,80.0
+Café,30,3.0,Boissons,90.0
+Thé,25,2.5,Boissons,62.5
+Pomme,50,0.5,Fruits,25.0
+Banane,30,0.3,Fruits,9.0
+Orange,20,0.4,Fruits,8.0
+Fraise,15,0.8,Fruits,12.0
+Mangue,40,1.2,Fruits,48.0
+Carotte,25,0.4,Légumes,10.0
+Brocoli,10,1.0,Légumes,10.0
+Tomate,40,0.6,Légumes,24.0
+Poivron,30,0.8,Légumes,24.0
+Pomme de Terre,60,0.2,Légumes,12.0

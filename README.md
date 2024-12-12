@@ -23,7 +23,7 @@ Le projet **Dev_II_script** permet de gérer et d'analyser des données de stock
 
 Avant de commencer, assurez-vous d'avoir installé Python 3 et les dépendances nécessaires.
 
-Le fichier CSV doivent comporter les colonnes "nom", "quantite", "prix" et "type"
+Les fichiers CSV doivent comporter les colonnes "nom", "quantite", "prix" et "type" et doivent être remplis correctement.
 
 ### Dépendances
 
